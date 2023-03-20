@@ -20,8 +20,11 @@ Code used to present Horiseon Homepage using semantic HTML elements and CSS.
 ## Credits:
 N/A
 
-## Webisite URL:
+## License:
+Please refer to license in the repo.
 
+## Webisite URL:
+https://evanrc.github.io/Horiseon-Recoded/
 
 ## Code ScreenShot:
 ![2023-03-19 (1)](https://user-images.githubusercontent.com/124648885/226255370-9a2d225d-c16a-46a8-9112-752aa6cbd48e.png)
