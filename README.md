@@ -23,7 +23,7 @@ N/A
 ## License:
 Please refer to license in the repo.
 
-## Webisite URL:
+## Website URL:
 https://evanrc.github.io/Horiseon-Recoded/
 
 ## Code ScreenShot:
